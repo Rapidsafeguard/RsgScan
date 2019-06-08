@@ -15,6 +15,10 @@ Or You can directly run python file
 python rapidsafeguardscanner.py
 ```
 
+# Addition
+
+Apache scanning tool detect apache server version from 2.2.* and 2.4.*
+
 # Credits
 GoVanguard
 Sparta

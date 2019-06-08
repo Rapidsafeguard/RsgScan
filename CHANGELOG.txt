@@ -1,0 +1,4 @@
+Rapidsafeguard Scanner 0.1
+
+This is basic network scanning tool. In this tool I have added basic bruteforce command, Scanner and CVE POC. This is not final version.
+

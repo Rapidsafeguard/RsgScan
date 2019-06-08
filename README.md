@@ -1,7 +1,8 @@
 # RsgScann
 
-#How to Install
+# How to Install
 
+```
 git clone https://github.com/Rapidsafeguard/RsgScan.git
 cd RsgScan
 pip install -r requirments.txt
@@ -12,8 +13,8 @@ sudo ./rsgscan.sh
 
 Or You can directly run python file
 python rapidsafeguardscanner.py
+```
 
-
-#Credits
+# Credits
 GoVanguard
 Sparta
